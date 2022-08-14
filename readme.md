@@ -16,7 +16,7 @@ Our target is to predict the highest price
 reached by MSFT stock in each of these 10 days, 
 given information on day $i$. <br>
 See this [notebook](https://github.com/SofiaTorchia/Basic-analysis-of-MSFT-financial-data/blob/master/Basic%20analysis%20of%20MSFT%20financial%20data.ipynb)
-for detailed analysis and results
+for detailed analysis and results.
 
 ### Feature engineering
 
